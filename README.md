@@ -1,1 +1,3 @@
-# XtraGridDevExpress
+# XtraGrid DevExpress with VB.NET (2010)
+
+โค้ดตัวอย่างในการใช้งาน XtraGrid ของ DevExpress ด้วยการทำ Retrieve หรือ การค้นคืนข้อมูล ... 
